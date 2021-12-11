@@ -24,3 +24,7 @@ TARGET_KERNEL_CONFIG := vendor/vangogh_user_defconfig
 
 # Inherit from the proprietary version
 include vendor/xiaomi/vangogh/BoardConfigVendor.mk
+
+RECOVERY_VARIANT:= TWRP
+
+RECOVERY_SDCARD_ON_DATA := true
