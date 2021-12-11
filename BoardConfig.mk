@@ -26,5 +26,6 @@ TARGET_KERNEL_CONFIG := vendor/vangogh_user_defconfig
 include vendor/xiaomi/vangogh/BoardConfigVendor.mk
 
 RECOVERY_VARIANT:= TWRP
+TW_THEME := portrait_hdpi
 
 RECOVERY_SDCARD_ON_DATA := true
