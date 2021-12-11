@@ -27,5 +27,7 @@ include vendor/xiaomi/vangogh/BoardConfigVendor.mk
 
 RECOVERY_VARIANT:= TWRP
 TW_THEME := portrait_hdpi
+$(warning "TW_THEME")
+$(warning $TW_THEME)
 
 RECOVERY_SDCARD_ON_DATA := true
