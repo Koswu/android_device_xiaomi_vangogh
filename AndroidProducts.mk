@@ -10,4 +10,5 @@ PRODUCT_MAKEFILES := \
 COMMON_LUNCH_CHOICES := \
     lineage_vangogh-user \
     lineage_vangogh-userdebug \
-    lineage_vangogh-eng
+    lineage_vangogh-eng \
+    trwp_vangogh-eng
