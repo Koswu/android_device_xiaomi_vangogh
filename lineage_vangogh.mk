@@ -14,7 +14,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 # Inherit from vangogh device
 $(call inherit-product, device/xiaomi/vangogh/device.mk)
 
-PRODUCT_NAME := lineage_vangogh
+PRODUCT_NAME := twrp_vangogh
 PRODUCT_DEVICE := vangogh
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_BRAND := Xiaomi
