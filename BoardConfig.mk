@@ -27,6 +27,8 @@ include vendor/xiaomi/vangogh/BoardConfigVendor.mk
 
 RECOVERY_VARIANT:= TWRP
 TW_THEME := portrait_hdpi
+TARGET_SCREEN_WIDTH := 1080
+TARGET_SCREEN_HEIGHT := 1920
 $(warning "TW_THEME")
 $(warning $(TW_THEME))
 
