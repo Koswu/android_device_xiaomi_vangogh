@@ -26,6 +26,7 @@ PRODUCT_SHIPPING_API_LEVEL := 29
 # Fingerprint
 TARGET_HAS_FOD := true
 
+
 # Properties
 -include $(LOCAL_PATH)/properties.mk
 
