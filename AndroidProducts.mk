@@ -5,7 +5,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_vangogh.mk
+    $(LOCAL_DIR)/twrp_vangogh.mk
 
 COMMON_LUNCH_CHOICES := \
     lineage_vangogh-user \
