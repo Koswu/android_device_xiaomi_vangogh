@@ -8,7 +8,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_vangogh.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_vangogh-user \
-    lineage_vangogh-userdebug \
-    lineage_vangogh-eng \
+    wtrp_gangogh-user \
+    trwp_vangogh-userdebug \
     trwp_vangogh-eng
